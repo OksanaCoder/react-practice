@@ -1,2 +1,2 @@
 ## Watch my react practice.
-[Click here](https://github.com/OksanaCoder/react-practice.git)
+[Click here](https://oksanacoder.github.io/react-practice.github.io/publi%D1%81/index.html)
